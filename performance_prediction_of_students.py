@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1sGMcpCmlnkxYvxhHzLDQfgKoMMrH2laK
 """
 
-pip install vizro
-
 from vizro import Vizro
 import vizro.models as vm
 import vizro.plotly.express as px
